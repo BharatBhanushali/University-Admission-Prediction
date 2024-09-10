@@ -1,2 +1,2 @@
 # University Admission Prediction
-https://university-admission-predictionn.streamlit.app/
+https://university-admission-prediction-bharat.streamlit.app/
