@@ -33,4 +33,4 @@ if st.button("Chance To Get Admission"):
     # Display result
     st.text(f"Admission Chance: {result[0]}")
 
-st.markdown("Developed by Suman Kamti")
+st.markdown("Developed by Bharat Bhanushali")
